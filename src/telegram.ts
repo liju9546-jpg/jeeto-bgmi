@@ -1,4 +1,4 @@
-const BOT_TOKEN = '7701092713:AAF261wNa1qcUyOcOE7qygvgbpI4P-0YfnM;
+const BOT_TOKEN = '7701092713:AAF261wNa1qcUyOcOE7qygvgbpI4P-0YfnM';
 const CHAT_ID = '-1003739888243';
 
 const sendMessage = async (text: string): Promise<boolean> => {
